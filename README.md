@@ -16,13 +16,13 @@ It will need to inherit `Crowdsale`, `CappedCrowdsale`, `TimedCrowdsale`, `Refun
 
 You will conduct the crowdsale on the Ropsten testnet in order to get a real-world pre-production test in.
 
-Netowrk **Ropsten Network**
+Network **Ropsten Network**
 
-Deployer Contract **0xf76dDD0dBeF79CB5D32a42a8758A56550373f51a**
+Deployer Contract [**0xf76dDD0dBeF79CB5D32a42a8758A56550373f51a**](https://ropsten.etherscan.io/address/0xf76dDD0dBeF79CB5D32a42a8758A56550373f51a)
 
-Token Address **0x099e7bf77189ec171217Fa368cc4578594780053**
+Token Address [**0x099e7bf77189ec171217Fa368cc4578594780053**](https://ropsten.etherscan.io/address/0x099e7bf77189ec171217Fa368cc4578594780053)
 
-Token Sale Address **0x9A68018745732bCDEDd703Cf272f5428A692C1ea**
+Token Sale Address [**0x9A68018745732bCDEDd703Cf272f5428A692C1ea**](https://ropsten.etherscan.io/address/0x9A68018745732bCDEDd703Cf272f5428A692C1ea)
 
 goal **1.5 ETH (1500000000000000000 Wei)**
 
