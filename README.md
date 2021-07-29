@@ -68,4 +68,4 @@ Decimals 18
 
 ### 3. This is how it would look in the wallet.  When crowdsale ends and tokens are withdrawn you will see the balance of your new asset.
 
-![Show Token](./Images/2.3_token_added.PNG)
+![Show Token](./Images/2.3_billycoin_added.PNG)
