@@ -20,19 +20,19 @@ Decimals 18
 
 ### 1.  Interact with Billycoinsale smart contract and use buyTokens.
 
-![Buy Tokens](./Images/1_buyTokens.PNG)
+![Buy Tokens](./Images/1.1_buyTokens.PNG)
 
 ### 2.  Select your Account and set value.
 
-![Set Value](./Images/2_set_value.PNG)
+![Set Value](./Images/1.2_set_value.PNG)
 
 ### 3.  Expand buyTokens, paste beneficiary address, and click on transact.
 
-![Transact](./Images/3_click_transact.PNG)
+![Transact](./Images/1.3_click_transact.PNG)
 
 **Confirm the transaction in Metamask to get it on the blockchain.**
 
-![Confirm](./Images/3_metamask_confirm.PNG)
+![Confirm](./Images/1.3_metamask_confirm.PNG)
 
 **These are the 3 transactions to complete the goal of the crowdsale. (1.5 ETH total)**
 
@@ -48,10 +48,24 @@ Decimals 18
 
 [hash 0x8db7b6eff1a28a15f49c4a65f476e6014bac12ad9b0042ffc88f048e6d826ed1](https://ropsten.etherscan.io/tx/0x8db7b6eff1a28a15f49c4a65f476e6014bac12ad9b0042ffc88f048e6d826ed1)
 
-### 4.  Confirm we reached the goal of 1.5 ETH
+### 4.  Confirm we reached the goal of 1.5 ETH.
 
-![Goal Reached](./Images/4_goal_reached.PNG)
+![Goal Reached](./Images/1.4_goal_reached.PNG)
 
-### 5.  We can not finalize the crowdsale until 24 weeks have passed
+### 5.  We can not finalize the crowdsale until 24 weeks have passed.
 
-![Finalize](./Images/5_finalize.PNG)
+![Finalize](./Images/1.5_finalize.PNG)
+
+## How to add token to Metamask
+
+### 1. Open Metamask and click on Assets
+
+![Assets](./Images/2.1_assets.PNG)
+
+### 2. Click on Add Token and fill in with token address. (0x099e7bf77189ec171217Fa368cc4578594780053)
+
+![Add Tokens](./Images/2.2_add_tokens.PNG)
+
+### 3. This is how it would look in the wallet.  When crowdsale ends and tokens are withdrawn you will see the balance of your new asset.
+
+![Show Token](./Images/2.3_token_added.PNG)
