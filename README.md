@@ -1,20 +1,34 @@
-# crowdsale_homework
+# Unit 21: You sure can attract a crowd!
 
-Gas Used 4774072 to execute Contract
+![crowd](Images/crowd.png)
 
-Ropsten Network
+## Background
 
-Deployer Contract 0xf76dDD0dBeF79CB5D32a42a8758A56550373f51a
+Your company has decided to crowdsale their BillyCoin token in order to help fund the network development.
+This network will be used to track the dog breeding activity across the globe in a decentralized way, and allow humans to track the genetic trail of their pets. You have already worked with the necessary legal bodies and have the green light on creating a crowdsale open to the public. However, you are required to enable refunds if the crowdsale is successful and the goal is met, and you are only allowed to raise a maximum of 1.5 Ether. The crowdsale will run for 24 weeks.
 
-Token Address 0x099e7bf77189ec171217Fa368cc4578594780053
+You will need to create an ERC20 token that will be minted through a `Crowdsale` contract that you can leverage from the OpenZeppelin Solidity library.
 
-Token Sale Address 0x9A68018745732bCDEDd703Cf272f5428A692C1ea
+This crowdsale contract will manage the entire process, allowing users to send ETH and get back BILLY (BillyCoin).
+This contract will mint the tokens automatically and distribute them to buyers in one transaction.
 
-goal 1.5 ETH (1500000000000000000 Wei)
+It will need to inherit `Crowdsale`, `CappedCrowdsale`, `TimedCrowdsale`, `RefundableCrowdsale`, and `MintedCrowdsale`.
 
-Exchange Rate 10 to 1 ETH
+You will conduct the crowdsale on the Ropsten testnet in order to get a real-world pre-production test in.
 
-Decimals 18
+Netowrk **Ropsten Network**
+
+Deployer Contract **0xf76dDD0dBeF79CB5D32a42a8758A56550373f51a**
+
+Token Address **0x099e7bf77189ec171217Fa368cc4578594780053**
+
+Token Sale Address **0x9A68018745732bCDEDd703Cf272f5428A692C1ea**
+
+goal **1.5 ETH (1500000000000000000 Wei)**
+
+Exchange Rate **10 to 1 ETH**
+
+Decimals **18**
 
 ## How to purchase Billy Coin via Crowdsale
 
