@@ -64,7 +64,7 @@ Decimals 18
 
 ### 2. Click on Add Token and fill in with token address. (0x099e7bf77189ec171217Fa368cc4578594780053)
 
-![Add Tokens](./Images/2.2_add_tokens.PNG)
+![Add Tokens](./Images/2.2_add_token.PNG)
 
 ### 3. This is how it would look in the wallet.  When crowdsale ends and tokens are withdrawn you will see the balance of your new asset.
 
