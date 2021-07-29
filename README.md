@@ -30,11 +30,11 @@ Decimals 18
 
 ![Transact](./Images/3_click_transact.PNG)
 
-Confirm the transaction in Metamask to get it on the blockchain.
+**Confirm the transaction in Metamask to get it on the blockchain.**
 
 ![Confirm](./Images/3_metamask_confirm.PNG)
 
-### These are the 3 transactions to complete the goal of the crowdsale. (1.5 ETH total)
+**These are the 3 transactions to complete the goal of the crowdsale. (1.5 ETH total)**
 
 0.25 ETH for **0xF802eBE17444D712301E79531a5087DDD9861a33**
 
@@ -48,6 +48,6 @@ Confirm the transaction in Metamask to get it on the blockchain.
 
 [hash 0x8db7b6eff1a28a15f49c4a65f476e6014bac12ad9b0042ffc88f048e6d826ed1](https://ropsten.etherscan.io/tx/0x8db7b6eff1a28a15f49c4a65f476e6014bac12ad9b0042ffc88f048e6d826ed1)
 
-### 4.  We reached the goal of 1.5 ETH
+### 4.  Confirm we reached the goal of 1.5 ETH
 
 ![Goal Reached](./Images/4_goal_reached.PNG)
