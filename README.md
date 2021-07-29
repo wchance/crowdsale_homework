@@ -3,22 +3,28 @@
 Gas Used 4774072 to execute Contract
 
 Ropsten Network
+
 Deployer Contract 0xf76dDD0dBeF79CB5D32a42a8758A56550373f51a
+
 Token Address 0x099e7bf77189ec171217Fa368cc4578594780053
+
 Token Sale Address 0x9A68018745732bCDEDd703Cf272f5428A692C1ea
+
 goal 1.5 ETH (1500000000000000000 Wei)
+
 Exchange Rate 10 to 1 ETH
+
 Decimals 18
 
 ## How to purchase Billy Coin via Crowdsale
 
-1.  Interact with Billycoinsale smart countract and use buyTokens.
+1.  Interact with Billycoinsale smart contract and use buyTokens.
 
 ![Buy Tokens](./Images/1_buyTokens.PNG)
 
 2.  Select your Account and set value.
 
-![Set Value](./Images/1_set_value.PNG)
+![Set Value](./Images/2_set_value.PNG)
 
 3.  Expand buyTokens, paste beneficiary address, and click on transact.
 
