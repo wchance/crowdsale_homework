@@ -18,15 +18,15 @@ Decimals 18
 
 ## How to purchase Billy Coin via Crowdsale
 
-1.  Interact with Billycoinsale smart contract and use buyTokens.
+###1.  Interact with Billycoinsale smart contract and use buyTokens.
 
 ![Buy Tokens](./Images/1_buyTokens.PNG)
 
-2.  Select your Account and set value.
+###2.  Select your Account and set value.
 
 ![Set Value](./Images/2_set_value.PNG)
 
-3.  Expand buyTokens, paste beneficiary address, and click on transact.
+###3.  Expand buyTokens, paste beneficiary address, and click on transact.
 
 ![Transact](./Images/3_click_transact.PNG)
 
@@ -48,6 +48,6 @@ Confirm the transaction in Metamask to get it on the blockchain.
 
 [hash 0x8db7b6eff1a28a15f49c4a65f476e6014bac12ad9b0042ffc88f048e6d826ed1](https://ropsten.etherscan.io/tx/0x8db7b6eff1a28a15f49c4a65f476e6014bac12ad9b0042ffc88f048e6d826ed1)
 
-4.  We reached the goal of 1.5 ETH
+###4.  We reached the goal of 1.5 ETH
 
 ![Goal Reached](./Images/4_goal_reached.PNG)
