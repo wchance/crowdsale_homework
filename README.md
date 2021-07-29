@@ -30,6 +30,8 @@ Decimals 18
 
 ![Transact](./Images/3_click_transact.PNG)
 
+Confirm the transaction in Metamask to get it on the blockchain.
+
 ![Confirm](./Images/3_metamask_confirm.PNG)
 
 0.25 for 0xF802eBE17444D712301E79531a5087DDD9861a33 
