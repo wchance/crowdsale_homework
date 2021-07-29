@@ -51,3 +51,7 @@ Decimals 18
 ### 4.  Confirm we reached the goal of 1.5 ETH
 
 ![Goal Reached](./Images/4_goal_reached.PNG)
+
+### 5.  We can not finalize the crowdsale until 24 weeks have passed
+
+![Finalize](./Images/5_finalize.PNG)
